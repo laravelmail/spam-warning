@@ -1,0 +1,268 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta name="x-apple-disable-message-reformatting"/>
+<!--[if !mso]><!--><meta content="IE=edge" http-equiv="X-UA-Compatible"/><!--<![endif]-->
+<title></title>
+<style type="text/css">
+      @media only screen and (min-width: 620px) {
+  .u-row {
+    width: 600px !important;
+  }
+  .u-row .u-col {
+    vertical-align: top;
+  }
+
+  .u-row .u-col-100 {
+    width: 600px !important;
+  }
+
+}
+
+@media (max-width: 620px) {
+  .u-row-container {
+    max-width: 100% !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .u-row .u-col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important;
+  }
+  .u-row {
+    width: 100% !important;
+  }
+  .u-col {
+    width: 100% !important;
+  }
+  .u-col > div {
+    margin: 0 auto;
+  }
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+table,
+tr,
+td {
+  vertical-align: top;
+  border-collapse: collapse;
+}
+
+p {
+  margin: 0;
+}
+
+.ie-container table,
+.mso-container table {
+  table-layout: fixed;
+}
+
+* {
+  line-height: inherit;
+}
+
+a[x-apple-data-detectors='true'] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: underline; } @media (max-width: 480px) { #u_content_image_2 .v-container-padding-padding { padding: 50px 10px 0px !important; } #u_content_image_2 .v-src-width { width: auto !important; } #u_content_image_2 .v-src-max-width { max-width: 60% !important; } #u_content_heading_1 .v-font-size { font-size: 38px !important; } #u_content_heading_2 .v-container-padding-padding { padding: 0px 10px 40px !important; } #u_content_heading_2 .v-font-size { font-size: 17px !important; } #u_content_text_1 .v-container-padding-padding { padding: 10px 20px !important; } #u_content_text_1 .v-text-align { text-align: justify !important; } #u_content_text_1 .v-line-height { line-height: 170% !important; } #u_content_button_1 .v-container-padding-padding { padding: 50px 10px 40px 20px !important; } #u_content_button_1 .v-size-width { width: 60% !important; } #u_content_text_5 .v-container-padding-padding { padding: 10px 20px !important; } #u_content_text_5 .v-text-align { text-align: justify !important; } #u_content_text_5 .v-line-height { line-height: 170% !important; } #u_content_text_2 .v-container-padding-padding { padding: 0px 20px 40px !important; } #u_content_text_2 .v-text-align { text-align: left !important; } #u_row_6.v-row-padding--vertical { padding-top: 60px !important; padding-bottom: 40px !important; } #u_content_text_3 .v-container-padding-padding { padding: 10px 20px 40px !important; } #u_content_text_3 .v-text-align { text-align: justify !important; } #u_content_text_3 .v-line-height { line-height: 170% !important; } }
+    </style>
+<!--[if !mso]><!--><link href="{{ asset('vendor/mail-templates/spam-warning/assets/asset_b34b90cf.css') }}" rel="stylesheet" type="text/css"/><!--<![endif]-->
+</head>
+<body class="clean-body u_body" style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #e8ebee;color: #000000">
+<!--[if IE]><div class="ie-container"><![endif]-->
+<!--[if mso]><div class="mso-container"><![endif]-->
+<table cellpadding="0" cellspacing="0" id="u_body" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #e8ebee;width:100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color: #e8ebee;"><![endif]-->
+<div class="u-row-container v-row-padding--vertical" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="background-color: #f5f5f5;width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="background-color: #f5f5f5;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+<!--[if (!mso)&(!IE)]><!--><div style="height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_2" role="presentation" style="font-family:'Rubik',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:70px 10px 0px;font-family:'Rubik',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="image" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/spam-warning/assets/1659601322863-HEader_1.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 30%;max-width: 174px;" title="image" width="174"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_heading_1" role="presentation" style="font-family:'Rubik',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px;font-family:'Rubik',sans-serif;">
+<h1 class="v-text-align v-line-height v-font-size" style="margin: 0px; color: #e03e2d; line-height: 140%; text-align: center; word-wrap: break-word; font-weight: normal; font-family: arial black,avant garde,arial; font-size: 55px;"><div>⚠️ WARNING ⚠️</div></h1>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_heading_2" role="presentation" style="font-family:'Rubik',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 60px;font-family:'Rubik',sans-serif;">
+<h1 class="v-text-align v-line-height v-font-size" style="margin: 0px; line-height: 140%; text-align: center; word-wrap: break-word; font-weight: normal; font-family: 'Rubik',sans-serif; font-size: 22px;"><div>Anti-Spam Policy Violation</div></h1>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_1" role="presentation" style="font-family:'Rubik',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 40px;font-family:'Rubik',sans-serif;">
+<div class="v-text-align v-line-height" style="line-height: 160%; text-align: justify; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 170%;"><span style="font-size: 14px; line-height: 23.8px;"><strong>Dear Arman!</strong></span></p>
+<p style="font-size: 14px; line-height: 170%;"> </p>
+<p style="font-size: 14px; line-height: 170%;">Your account has been flagged for potential spam activity. Our system is actively working to protect your account and maintain a safe environment.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_button_1" role="presentation" style="font-family:'Rubik',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:30px 10px 30px 40px;font-family:'Rubik',sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="left" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/spam-warning/assets/asset_9fc44c42.bin') }}" style="height:37px; v-text-anchor:middle; width:226px;" arcsize="11%"  stroke="f" fillcolor="#ed8d22"><w:anchorlock/><center style="color:#FFFFFF;font-family:'Rubik',sans-serif;"><![endif]-->
+<a class="v-button v-size-width" href="{{ asset('vendor/mail-templates/spam-warning/assets/asset_9fc44c42.bin') }}" style="box-sizing: border-box;display: inline-block;font-family:'Rubik',sans-serif;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #ed8d22; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:41%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;" target="_blank">
+<span class="v-line-height" style="display:block;padding:10px 20px;line-height:120%;"><span style="font-size: 14px; line-height: 120%;">Check your Email</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_5" role="presentation" style="font-family:'Rubik',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 40px;font-family:'Rubik',sans-serif;">
+<div class="v-text-align v-line-height" style="line-height: 160%; text-align: justify; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 170%;"><span style="font-size: 14px; line-height: 23.8px;">Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. consectetuer adipiscing elit, sed diam nonummy nibh euismod.</span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_2" role="presentation" style="font-family:'Rubik',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 60px 40px;font-family:'Rubik',sans-serif;">
+<div class="v-text-align v-line-height" style="color: #3598db; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><a href="{{ asset('vendor/mail-templates/spam-warning/assets/asset_9fc44c42.bin') }}" rel="noopener" target="_blank">Please review and confirm your account below.</a></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="background-color: #000000;width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="background-color: #000000;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+<!--[if (!mso)&(!IE)]><!--><div style="height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Rubik',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:'Rubik',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 2px solid #000000;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" id="u_row_6" style="padding: 60px 0px;background-color: transparent">
+<div class="u-row" style="Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 60px 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+<!--[if (!mso)&(!IE)]><!--><div style="height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_3" role="presentation" style="font-family:'Rubik',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 30px;font-family:'Rubik',sans-serif;">
+<div class="v-text-align v-line-height" style="color: #000000; line-height: 160%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 170%;">You can find to common questions <a href="{{ asset('vendor/mail-templates/spam-warning/assets/asset_9fc44c42.bin') }}" rel="noopener" target="_blank">here</a>. And you can always reach us at </p>
+<p style="font-size: 14px; line-height: 170%;"><a href="{{ asset('vendor/mail-templates/spam-warning/assets/asset_9fc44c42.bin') }}" rel="noopener" target="_blank">customer.cussess@Laravel Mail.com </a></p>
+<p style="font-size: 14px; line-height: 170%;"> </p>
+<p style="font-size: 14px; line-height: 170%;">Urgent: Suspected spam activity detected. Please review and take necessary actions.</p>
+<p style="font-size: 14px; line-height: 170%;"> </p>
+<p style="font-size: 14px; line-height: 170%;">Preferences | Unsubscribe  | View in browser</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]></div><![endif]-->
+<!--[if IE]></div><![endif]-->
+</body>
+</html>
